@@ -1,2 +1,4 @@
 Hello git!
+New text - entered from cloud. YAY!
+
 this is an old version of this file!
